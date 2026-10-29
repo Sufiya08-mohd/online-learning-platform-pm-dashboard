@@ -1,0 +1,286 @@
+Student_ID,Signup_Date,Course_Category,Traffic_Source,Paid_or_Free,Completion_Pct,Week_Number
+STU0001,2026-08-01,Data Analytics,Instagram,Paid,61.0,9
+STU0002,2026-08-01,Data Analytics,Google,Free,21.0,9
+STU0003,2026-07-27,Python Programming,College Partnership,Paid,65.0,9
+STU0004,2026-08-01,Data Analytics,Referral,Free,67.0,9
+STU0005,2026-08-02,Digital Marketing,Instagram,Free,38.0,9
+STU0006,2026-07-28,Digital Marketing,Instagram,Free,25.0,9
+STU0007,2026-07-27,Data Analytics,Google,Paid,52.0,9
+STU0008,2026-07-27,Digital Marketing,Referral,Free,52.0,9
+STU0009,2026-08-02,Data Analytics,Instagram,Free,53.0,9
+STU0010,2026-08-01,Digital Marketing,Instagram,Paid,48.0,9
+STU0011,2026-07-28,Graphic Design,Instagram,Free,20.0,9
+STU0012,2026-07-29,Data Analytics,YouTube,Paid,78.0,9
+STU0013,2026-08-01,Data Analytics,Google,Paid,44.0,9
+STU0014,2026-07-29,Uncategorized,Referral,Free,17.0,9
+STU0015,2026-08-01,Graphic Design,College Partnership,Paid,62.0,9
+STU0016,2026-07-30,Data Analytics,YouTube,Paid,54.0,9
+STU0017,2026-08-01,Spoken English,Google,Paid,49.0,9
+STU0018,2026-07-29,Project Management,Google,Paid,43.0,9
+STU0019,2026-08-01,Data Analytics,YouTube,Free,55.0,9
+STU0020,2026-07-31,Project Management,College Partnership,Free,24.0,9
+STU0021,2026-07-28,Data Analytics,Google,Free,44.0,9
+STU0022,2026-07-30,Spoken English,College Partnership,Free,15.0,9
+STU0023,2026-07-27,Project Management,College Partnership,Free,72.0,9
+STU0024,2026-07-29,Digital Marketing,Google,Paid,92.0,9
+STU0025,2026-08-01,Data Analytics,YouTube,Free,35.0,9
+STU0026,2026-08-02,Graphic Design,Google,Free,63.0,9
+STU0027,2026-07-28,Project Management,Unknown,Paid,64.0,9
+STU0028,2026-07-27,Python Programming,Instagram,Free,10.0,9
+STU0029,2026-07-29,Data Analytics,College Partnership,Free,47.0,9
+STU0030,2026-07-27,Python Programming,Instagram,Paid,45.0,9
+STU0031,2026-08-02,Spoken English,Instagram,Free,60.0,9
+STU0032,2026-07-31,Digital Marketing,Instagram,Free,60.0,9
+STU0033,2026-07-31,Digital Marketing,Referral,Free,25.0,9
+STU0034,2026-07-29,Python Programming,Instagram,Free,5.0,9
+STU0035,2026-07-28,Python Programming,Instagram,Paid,89.0,9
+STU0036,2026-08-01,Data Analytics,YouTube,Free,41.0,9
+STU0037,2026-08-02,Python Programming,Google,Paid,44.0,9
+STU0038,2026-08-01,Python Programming,Google,Free,36.0,9
+STU0039,2026-08-02,Python Programming,Google,Free,29.0,9
+STU0040,2026-07-30,Project Management,Referral,Free,43.0,9
+STU0041,2026-08-01,Graphic Design,Instagram,Paid,45.0,9
+STU0042,2026-07-28,Data Analytics,Instagram,Free,49.0,9
+STU0043,2026-07-30,Graphic Design,Unknown,Paid,83.0,9
+STU0044,2026-07-27,Python Programming,Instagram,Free,26.0,9
+STU0045,2026-07-27,Python Programming,Instagram,Free,45.0,9
+STU0046,2026-07-30,Data Analytics,Instagram,Free,27.0,9
+STU0047,2026-07-30,Digital Marketing,YouTube,Paid,,9
+STU0048,2026-08-02,Project Management,Instagram,Free,14.0,9
+STU0049,2026-07-29,Data Analytics,Google,Paid,95.0,9
+STU0050,2026-07-27,Python Programming,College Partnership,Free,50.0,9
+STU0051,2026-07-28,Data Analytics,Instagram,Paid,19.0,9
+STU0052,2026-08-02,Data Analytics,College Partnership,Paid,59.0,9
+STU0053,2026-07-28,Python Programming,Unknown,Free,46.0,9
+STU0054,2026-07-29,Data Analytics,College Partnership,Free,40.0,9
+STU0055,2026-07-28,Digital Marketing,YouTube,Paid,83.0,9
+STU0056,2026-08-03,Python Programming,Referral,Paid,85.0,10
+STU0057,2026-08-03,Spoken English,College Partnership,Paid,65.0,10
+STU0058,2026-08-04,Data Analytics,College Partnership,Paid,78.0,10
+STU0059,2026-08-08,Python Programming,Referral,Paid,100.0,10
+STU0060,2026-08-07,Project Management,YouTube,Paid,57.0,10
+STU0061,2026-08-04,Data Analytics,Instagram,Paid,89.0,10
+STU0062,2026-08-04,Data Analytics,Referral,Free,14.0,10
+STU0063,2026-08-05,Data Analytics,Referral,Free,37.0,10
+STU0064,2026-08-09,Data Analytics,Unknown,Paid,100.0,10
+STU0065,2026-08-08,Project Management,Referral,Free,50.0,10
+STU0066,2026-08-03,Graphic Design,YouTube,Paid,82.0,10
+STU0067,2026-08-07,Digital Marketing,Instagram,Paid,43.0,10
+STU0068,2026-08-05,Project Management,College Partnership,Free,58.0,10
+STU0069,2026-08-05,Project Management,College Partnership,Paid,62.0,10
+STU0070,2026-08-06,Project Management,YouTube,Free,48.0,10
+STU0071,2026-08-04,Graphic Design,Instagram,Free,77.0,10
+STU0072,2026-08-08,Project Management,Google,Free,32.0,10
+STU0073,2026-08-08,Project Management,Instagram,Free,44.0,10
+STU0074,2026-08-09,Digital Marketing,Instagram,Paid,45.0,10
+STU0075,2026-08-06,Data Analytics,Referral,Paid,81.0,10
+STU0076,2026-08-06,Graphic Design,YouTube,Paid,,10
+STU0077,2026-08-05,Graphic Design,Google,Paid,28.0,10
+STU0078,2026-08-03,Spoken English,Instagram,Paid,60.0,10
+STU0079,2026-08-05,Project Management,Google,Paid,45.0,10
+STU0080,2026-08-07,Graphic Design,Instagram,Paid,50.0,10
+STU0081,2026-08-03,Python Programming,College Partnership,Free,88.0,10
+STU0082,2026-08-08,Data Analytics,Google,Free,38.0,10
+STU0083,2026-08-08,Data Analytics,YouTube,Free,14.0,10
+STU0084,2026-08-07,Digital Marketing,Google,Paid,39.0,10
+STU0085,2026-08-05,Digital Marketing,College Partnership,Free,49.0,10
+STU0086,2026-08-04,Digital Marketing,Google,Free,68.0,10
+STU0087,2026-08-03,Python Programming,Google,Paid,71.0,10
+STU0088,2026-08-06,Data Analytics,Google,Free,75.0,10
+STU0089,2026-08-09,Project Management,Referral,Free,28.0,10
+STU0090,2026-08-03,Project Management,Referral,Free,22.0,10
+STU0091,2026-08-04,Spoken English,Referral,Free,42.0,10
+STU0092,2026-08-09,Digital Marketing,Referral,Paid,67.0,10
+STU0093,2026-08-04,Data Analytics,Referral,Free,21.0,10
+STU0094,2026-08-09,Graphic Design,College Partnership,Free,52.0,10
+STU0095,2026-08-04,Data Analytics,Instagram,Paid,87.0,10
+STU0096,2026-08-09,Data Analytics,Google,Paid,55.0,10
+STU0097,2026-08-07,Graphic Design,Referral,Free,0.0,10
+STU0098,2026-08-08,Digital Marketing,YouTube,Free,7.0,10
+STU0099,2026-08-06,Data Analytics,Instagram,Free,37.0,10
+STU0100,2026-08-08,Project Management,Google,Paid,37.0,10
+STU0101,2026-08-04,Data Analytics,Google,Paid,77.0,10
+STU0102,2026-08-07,Data Analytics,Google,Paid,70.0,10
+STU0103,2026-08-04,Python Programming,Google,Free,58.0,10
+STU0104,2026-08-04,Digital Marketing,College Partnership,Free,46.0,10
+STU0105,2026-08-08,Digital Marketing,YouTube,Paid,83.0,10
+STU0106,2026-08-05,Graphic Design,YouTube,Free,18.0,10
+STU0107,2026-08-06,Graphic Design,Google,Free,34.0,10
+STU0108,2026-08-05,Data Analytics,Google,Free,0.0,10
+STU0109,2026-08-08,Spoken English,YouTube,Free,31.0,10
+STU0110,2026-08-07,Digital Marketing,Referral,Paid,20.0,10
+STU0111,2026-08-03,Data Analytics,Instagram,Paid,22.0,10
+STU0112,2026-08-05,Digital Marketing,College Partnership,Paid,81.0,10
+STU0113,2026-08-06,Graphic Design,Google,Paid,83.0,10
+STU0114,2026-08-08,Uncategorized,Google,Free,31.0,10
+STU0115,2026-08-08,Data Analytics,Instagram,Paid,68.0,10
+STU0116,2026-08-09,Data Analytics,Instagram,Paid,60.0,10
+STU0117,2026-08-08,Data Analytics,Google,Paid,85.0,10
+STU0118,2026-08-07,Project Management,Instagram,Free,30.0,10
+STU0119,2026-08-09,Spoken English,Referral,Paid,51.0,10
+STU0120,2026-08-06,Project Management,Instagram,Paid,88.0,10
+STU0121,2026-08-08,Digital Marketing,Referral,Free,39.0,10
+STU0122,2026-08-09,Spoken English,College Partnership,Paid,95.0,10
+STU0123,2026-08-05,Python Programming,Instagram,Free,33.0,10
+STU0124,2026-08-06,Data Analytics,YouTube,Free,30.0,10
+STU0125,2026-08-08,Data Analytics,Google,Free,25.0,10
+STU0126,2026-08-08,Graphic Design,Google,Paid,65.0,10
+STU0127,2026-08-06,Digital Marketing,Instagram,Free,51.0,10
+STU0128,2026-08-03,Digital Marketing,College Partnership,Paid,35.0,10
+STU0129,2026-08-07,Graphic Design,Instagram,Free,34.0,10
+STU0130,2026-08-04,Data Analytics,Instagram,Paid,65.0,10
+STU0131,2026-08-07,Spoken English,Instagram,Free,37.0,10
+STU0132,2026-08-08,Python Programming,Instagram,Free,41.0,10
+STU0133,2026-08-06,Data Analytics,Instagram,Free,0.0,10
+STU0134,2026-08-08,Project Management,Google,Paid,64.0,10
+STU0135,2026-08-07,Digital Marketing,College Partnership,Free,5.0,10
+STU0136,2026-08-12,Data Analytics,College Partnership,Paid,78.0,11
+STU0137,2026-08-12,Data Analytics,Instagram,Paid,25.0,11
+STU0138,2026-08-13,Python Programming,College Partnership,Paid,53.0,11
+STU0139,2026-08-14,Data Analytics,Instagram,Paid,73.0,11
+STU0140,2026-08-10,Data Analytics,Instagram,Free,,11
+STU0141,2026-08-10,Graphic Design,Google,Free,34.0,11
+STU0142,2026-08-16,Digital Marketing,Google,Paid,51.0,11
+STU0143,2026-08-12,Digital Marketing,College Partnership,Paid,100.0,11
+STU0144,2026-08-13,Python Programming,Referral,Free,54.0,11
+STU0145,2026-08-11,Spoken English,Instagram,Paid,44.0,11
+STU0146,2026-08-16,Python Programming,Referral,Free,30.0,11
+STU0147,2026-08-16,Graphic Design,YouTube,Free,15.0,11
+STU0148,2026-08-12,Data Analytics,YouTube,Free,45.0,11
+STU0149,2026-08-10,Project Management,Instagram,Free,41.0,11
+STU0150,2026-08-11,Data Analytics,Google,Free,52.0,11
+STU0151,2026-08-15,Project Management,College Partnership,Free,33.0,11
+STU0152,2026-08-13,Data Analytics,Instagram,Paid,77.0,11
+STU0153,2026-08-16,Digital Marketing,Google,Free,10.0,11
+STU0154,2026-08-15,Data Analytics,Instagram,Paid,18.0,11
+STU0155,2026-08-10,Python Programming,Instagram,Paid,49.0,11
+STU0156,2026-08-10,Digital Marketing,Google,Free,72.0,11
+STU0157,2026-08-12,Data Analytics,Google,Free,28.0,11
+STU0158,2026-08-12,Data Analytics,Instagram,Free,38.0,11
+STU0159,2026-08-15,Spoken English,Referral,Free,0.0,11
+STU0160,2026-08-12,Project Management,Instagram,Free,13.0,11
+STU0161,2026-08-14,Python Programming,Referral,Free,50.0,11
+STU0162,2026-08-13,Digital Marketing,Google,Free,30.0,11
+STU0163,2026-08-12,Project Management,Instagram,Free,50.0,11
+STU0164,2026-08-13,Python Programming,Google,Free,22.0,11
+STU0165,2026-08-12,Graphic Design,College Partnership,Paid,90.0,11
+STU0166,2026-08-10,Python Programming,Google,Free,63.0,11
+STU0167,2026-08-11,Digital Marketing,Instagram,Free,19.0,11
+STU0168,2026-08-12,Spoken English,Google,Free,19.0,11
+STU0169,2026-08-15,Project Management,College Partnership,Free,68.0,11
+STU0170,2026-08-12,Python Programming,Instagram,Free,43.0,11
+STU0171,2026-08-16,Graphic Design,Google,Free,27.0,11
+STU0172,2026-08-15,Project Management,Google,Paid,64.0,11
+STU0173,2026-08-13,Digital Marketing,YouTube,Free,39.0,11
+STU0174,2026-08-14,Data Analytics,Instagram,Free,65.0,11
+STU0175,2026-08-16,Python Programming,College Partnership,Free,0.0,11
+STU0176,2026-08-12,Graphic Design,Referral,Free,64.0,11
+STU0177,2026-08-15,Digital Marketing,Referral,Free,54.0,11
+STU0178,2026-08-14,Spoken English,College Partnership,Paid,83.0,11
+STU0179,2026-08-15,Uncategorized,Google,Paid,29.0,11
+STU0180,2026-08-13,Graphic Design,Google,Free,67.0,11
+STU0181,2026-08-15,Spoken English,Instagram,Free,30.0,11
+STU0182,2026-08-14,Data Analytics,College Partnership,Paid,51.0,11
+STU0183,2026-08-10,Digital Marketing,Referral,Free,4.0,11
+STU0184,2026-08-11,Project Management,Instagram,Paid,71.0,11
+STU0185,2026-08-14,Graphic Design,College Partnership,Free,12.0,11
+STU0186,2026-08-13,Python Programming,College Partnership,Free,3.0,11
+STU0187,2026-08-13,Python Programming,YouTube,Free,46.0,11
+STU0188,2026-08-11,Digital Marketing,Instagram,Free,39.0,11
+STU0189,2026-08-15,Digital Marketing,Instagram,Free,48.0,11
+STU0190,2026-08-12,Digital Marketing,Google,Free,45.0,11
+STU0191,2026-08-11,Data Analytics,Unknown,Paid,33.0,11
+STU0192,2026-08-14,Python Programming,Instagram,Free,55.0,11
+STU0193,2026-08-14,Data Analytics,Instagram,Paid,45.0,11
+STU0194,2026-08-16,Digital Marketing,Google,Free,42.0,11
+STU0195,2026-08-10,Python Programming,Google,Free,21.0,11
+STU0196,2026-08-12,Digital Marketing,YouTube,Free,62.0,11
+STU0197,2026-08-16,Python Programming,YouTube,Free,40.0,11
+STU0198,2026-08-12,Graphic Design,Google,Paid,90.0,11
+STU0199,2026-08-10,Data Analytics,Referral,Free,23.0,11
+STU0200,2026-08-13,Spoken English,College Partnership,Free,4.0,11
+STU0201,2026-08-11,Python Programming,Referral,Free,19.0,11
+STU0202,2026-08-15,Project Management,Instagram,Free,63.0,11
+STU0203,2026-08-10,Digital Marketing,Referral,Free,26.0,11
+STU0204,2026-08-15,Spoken English,Google,Paid,46.0,11
+STU0205,2026-08-13,Spoken English,Google,Paid,80.0,11
+STU0206,2026-08-12,Data Analytics,College Partnership,Free,58.0,11
+STU0207,2026-08-13,Graphic Design,Google,Free,25.0,11
+STU0208,2026-08-10,Spoken English,College Partnership,Paid,100.0,11
+STU0209,2026-08-15,Python Programming,Instagram,Free,3.0,11
+STU0210,2026-08-13,Python Programming,Google,Paid,87.0,11
+STU0211,2026-08-15,Python Programming,Google,Free,36.0,11
+STU0212,2026-08-15,Data Analytics,College Partnership,Paid,83.0,11
+STU0213,2026-08-14,Uncategorized,Google,Paid,37.0,11
+STU0214,2026-08-15,Digital Marketing,Instagram,Paid,41.0,11
+STU0215,2026-08-10,Graphic Design,Instagram,Paid,52.0,11
+STU0216,2026-08-20,Spoken English,Referral,Paid,62.0,12
+STU0217,2026-08-21,Digital Marketing,Instagram,Free,37.0,12
+STU0218,2026-08-20,Spoken English,Instagram,Free,25.0,12
+STU0219,2026-08-22,Graphic Design,Instagram,Paid,11.0,12
+STU0220,2026-08-22,Spoken English,Referral,Paid,80.0,12
+STU0221,2026-08-17,Graphic Design,Google,Paid,66.0,12
+STU0222,2026-08-22,Python Programming,YouTube,Paid,72.0,12
+STU0223,2026-08-17,Python Programming,Instagram,Free,38.0,12
+STU0224,2026-08-23,Python Programming,College Partnership,Free,,12
+STU0225,2026-08-18,Data Analytics,College Partnership,Paid,90.0,12
+STU0226,2026-08-18,Python Programming,College Partnership,Free,75.0,12
+STU0227,2026-08-17,Project Management,Instagram,Free,41.0,12
+STU0228,2026-08-19,Data Analytics,Instagram,Paid,62.0,12
+STU0229,2026-08-20,Project Management,Google,Free,37.0,12
+STU0230,2026-08-17,Data Analytics,Referral,Free,12.0,12
+STU0231,2026-08-22,Digital Marketing,YouTube,Free,,12
+STU0232,2026-08-17,Graphic Design,Google,Free,18.0,12
+STU0233,2026-08-17,Data Analytics,Referral,Free,45.0,12
+STU0234,2026-08-17,Python Programming,Referral,Paid,57.0,12
+STU0235,2026-08-22,Digital Marketing,Referral,Paid,89.0,12
+STU0236,2026-08-17,Data Analytics,Referral,Free,37.0,12
+STU0237,2026-08-23,Graphic Design,Google,Free,53.0,12
+STU0238,2026-08-23,Digital Marketing,Instagram,Free,20.0,12
+STU0239,2026-08-20,Project Management,Google,Paid,60.0,12
+STU0240,2026-08-17,Data Analytics,Instagram,Free,92.0,12
+STU0241,2026-08-22,Spoken English,Referral,Paid,67.0,12
+STU0242,2026-08-22,Digital Marketing,Referral,Paid,67.0,12
+STU0243,2026-08-23,Digital Marketing,Google,Free,44.0,12
+STU0244,2026-08-17,Data Analytics,Referral,Free,34.0,12
+STU0245,2026-08-18,Data Analytics,Instagram,Free,21.0,12
+STU0246,2026-08-18,Graphic Design,YouTube,Free,60.0,12
+STU0247,2026-08-23,Python Programming,Unknown,Free,25.0,12
+STU0248,2026-08-22,Data Analytics,College Partnership,Paid,36.0,12
+STU0249,2026-08-19,Data Analytics,Referral,Free,29.0,12
+STU0250,2026-08-17,Python Programming,Instagram,Paid,73.0,12
+STU0251,2026-08-22,Data Analytics,Google,Free,20.0,12
+STU0252,2026-08-19,Python Programming,Instagram,Free,54.0,12
+STU0253,2026-08-17,Data Analytics,Google,Paid,62.0,12
+STU0254,2026-08-20,Digital Marketing,Instagram,Free,30.0,12
+STU0255,2026-08-23,Project Management,Referral,Free,31.0,12
+STU0256,2026-08-21,Data Analytics,Google,Free,46.0,12
+STU0257,2026-08-21,Project Management,College Partnership,Paid,76.0,12
+STU0258,2026-08-19,Data Analytics,College Partnership,Paid,100.0,12
+STU0259,2026-08-18,Python Programming,Referral,Paid,46.0,12
+STU0260,2026-08-19,Graphic Design,Instagram,Paid,58.0,12
+STU0261,2026-08-17,Digital Marketing,Google,Free,54.0,12
+STU0262,2026-08-22,Data Analytics,Instagram,Free,46.0,12
+STU0263,2026-08-19,Project Management,Google,Paid,,12
+STU0264,2026-08-20,Data Analytics,Referral,Free,30.0,12
+STU0265,2026-08-21,Data Analytics,Unknown,Paid,87.0,12
+STU0266,2026-08-17,Data Analytics,Google,Free,11.0,12
+STU0267,2026-08-23,Graphic Design,Instagram,Paid,56.0,12
+STU0268,2026-08-18,Data Analytics,Instagram,Paid,21.0,12
+STU0269,2026-08-23,Python Programming,College Partnership,Free,54.0,12
+STU0270,2026-08-23,Project Management,College Partnership,Free,71.0,12
+STU0271,2026-08-22,Python Programming,Instagram,Free,6.0,12
+STU0272,2026-08-17,Python Programming,College Partnership,Free,7.0,12
+STU0273,2026-08-21,Digital Marketing,Instagram,Paid,43.0,12
+STU0274,2026-08-23,Python Programming,YouTube,Paid,61.0,12
+STU0275,2026-08-17,Python Programming,College Partnership,Free,13.0,12
+STU0276,2026-08-17,Graphic Design,Referral,Free,36.0,12
+STU0277,2026-08-19,Digital Marketing,College Partnership,Free,0.0,12
+STU0278,2026-08-23,Project Management,Google,Paid,61.0,12
+STU0279,2026-08-18,Python Programming,Referral,Paid,44.0,12
+STU0280,2026-08-19,Digital Marketing,Google,Paid,0.0,12
+STU0281,2026-08-19,Digital Marketing,Google,Free,67.0,12
+STU0282,2026-08-21,Digital Marketing,College Partnership,Free,48.0,12
+STU0283,2026-08-22,Data Analytics,Referral,Free,27.0,12
+STU0284,2026-08-19,Python Programming,Unknown,Paid,54.0,12
+STU0285,2026-08-18,Digital Marketing,College Partnership,Free,55.0,12
