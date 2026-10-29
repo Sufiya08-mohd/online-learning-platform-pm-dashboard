@@ -12,8 +12,8 @@ Data: generated 300 simulated sign-up records with deliberate quality issues, th
 Dashboard: built a 2-page Power BI report covering project health and business impact (Project-Dashboard.pbix).
 Gen AI: logged every prompt, what the AI got right and what I fixed (GenAI-Log).
 Dashboard preview
-![Project Health](03-Dashboard/1.project health.png)
-![Business Impact](03-Dashboard/2.business impact.png)
+![1.project health] (03-Dashboard/1.project health.png)
+![2.business impact] (03-Dashboard/2.business impact.png)
 Key findings
 Schedule: the public launch slipped 3 days, driven by UAT running 5 days over plan; later tasks were adjusted to hold the closure date.
 Budget: spent ₹7,66,000 of ₹8,00,000 (4.3% under budget). Instructors and marketing ran over, and only ₹35,000 of the ₹1,00,000 contingency was used.
@@ -28,7 +28,7 @@ How to turn a project plan into measurable tracking metrics (schedule variance, 
 Where gen AI speeds up planning and documentation, and where it needs human checking (totals, dates, formula order, chart scales).
 How to turn messy data into a clear dashboard.
 Repository structure
-01-PM-Documents/   Project-charter.docx, Project-Plan.xlsx
-02-Data/           signups\_raw.csv, signups\_clean.csv, Data-Cleaning-Log.md
+01-PM-Documents/   Project-Charter.docx, Project-Plan.xlsx
+02-Data/           signups_raw.csv, signups_clean.csv, Data-Cleaning-Log.md
 03-Dashboard/      Project-Dashboard.pbix, 1.project health.png, 2.business impact.png
 04-GenAI-Log/      GenAI-Log.md
